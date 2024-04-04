@@ -1,0 +1,6 @@
+This is line 1
+12345
+Python File Handling
+Appending line 1
+98765
+Appending more text
